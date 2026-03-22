@@ -28,8 +28,8 @@ Formatted output table
 Color-coded grades
 
 **Technologies Used:**
-Python 3
-Lists
-Loops (for, while)
-Functions
-Exception Handling
+1. Python 3
+2. Lists
+3. Loops (for, while)
+4. Functions
+5. Exception Handling
